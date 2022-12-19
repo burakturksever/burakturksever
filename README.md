@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @burakturksever
+- 👋 Hi, I’m Burak.
 - 👀 I’m interested in CTI and am constantly developing new projects in this field.
-- 🌱 I’m currently learning x86 Assembly
+- 🌱 I’m currently learning x86 Assembly.
